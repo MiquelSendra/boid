@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier
+_commit: e00602a
+_src_path: gh:CENTURI-Introduction-to-Python/CENTURI-template.git
+class_name: Boid
+display_name: bird tracking
+email: miquel.sendra@univ-amu.fr
+executable: true
+full_name: Miquel Sendra
+github_repository_url: https://github.com/MiquelSendra/boid
+github_username_or_organization: MiquelSendra
+license: MIT
+module_name: _boid
+numpy: true
+package_name: boid
+scikit_image: false
+scikit_learn: false
+scipy: false
+short_description: A repository to analize boid formation and acceleracion
+test_notebook: true
